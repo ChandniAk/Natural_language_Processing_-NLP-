@@ -11,14 +11,15 @@ scikit-learn
 Pandas 
 
 # Installation
+```
 Clone the repository:
-git clone https://github.com/yourusername/spam-detection.git
+git clone https://github.com/Natural_language_Processing_-NLP-/text_mining/text_mining.git
 cd spam-detection
 Install the required libraries:
 pip install spacy scikit-learn pandas
 Download the SpaCy language model:
 python -m spacy download en_core_web_sm
-
+```
 # Implementation Details
 ### Data Preprocessing:
 The raw text data is cleaned and preprocessed using SpaCy. This includes tokenization, lemmatization, and removal of stop words.
