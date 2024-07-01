@@ -1,7 +1,7 @@
 # Sentiment Analysis of Movie Reviews
 
 ## Project Description
-This project aims to analyze the sentiment of movie reviews using various machine learning, deep learning models and LLM. Sentiment analysis is a powerful tool for understanding public opinion and can be applied to various domains.
+This project aims to analyze the sentiment of movie reviews using various machine learning (ML), deep learning (DL) and LLM models. Sentiment analysis is a powerful tool for understanding public opinion and can be applied to various domains.
 
 ## Features
 - Analyze movie reviews to determine their sentiment.
