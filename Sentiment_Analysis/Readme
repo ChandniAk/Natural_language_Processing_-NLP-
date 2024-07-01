@@ -30,8 +30,8 @@ A state-of-the-art transformer model for various NLP tasks, fine-tuned for senti
 ## Installation
 #### Clone the Repository
 ```
-git clone https://github.com/your-username/sentiment-analysis-movie-reviews.git
-cd sentiment-analysis-movie-reviews
+git clone https://github.com/ChandniAK/Natural_language_Processing_-NLP-/Sentiment_Analysis.git
+cd Sentiment_Analysis
 ```
 # Results
 - Accuracy, precision, recall, F1-score for each model.
